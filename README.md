@@ -94,5 +94,4 @@ After deployment, the contract address will be displayed. Save this address for 
 *Built with ❤️ for the decentralized future*
 
 
-Contract Address : 0x9820b46893f0ed924451aba691cae041e482ab76
-
+Contract Address : 0x7740e26131e74ADEBca762BBE835D9441B5239b9
